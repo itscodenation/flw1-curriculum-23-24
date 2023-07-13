@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://live.staticflickr.com/65535/53043109962_0852c620ab_k.jpg" alt="flw1-unit-1-banner" width="100%">
+</div>
 
 ## Scope and Sequence
 
