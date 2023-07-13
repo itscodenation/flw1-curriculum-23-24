@@ -33,16 +33,26 @@
 ---
 
 ## Vocabulary
-HTML: 
+HTML: HTML DOM
 
-CSS: 
+CSS: selector, property, key, value
 
-JS: 
+JS: variables, operators, let, string, number, declare, data types, Number(), .value, selector, event handler, property, .style, .src, .innerHTML, .createElement, .appendChild, condition, conditional statements, boolean, if, else, else if, compound conditional, &&, ||, !, operators
+
+Other: fellowship, agenda, Slack, scrum, integrated development environment (IDE), documentation, console, debugging
 
 ---
 
 ## Project Overview
-
+Coders will create a portfolio using HTML and CSS. They will add projects from Intro to Web Dev or any personal projects to their portfolio. They will update their portfolio with new projects at the end of future units.
 
 ### Project Materials
-- 
+- Project Plan
+- Project Rubric
+- Starter Code
+    - Light - no layout
+    - Medium, Option 1 - layout included
+    - Medium, Option 2 - layout included
+    - Heavy - layout included, pages linked
+- Solution Code
+- Example Project
