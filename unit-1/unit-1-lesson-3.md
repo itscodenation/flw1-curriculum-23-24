@@ -36,7 +36,7 @@
   - Guide the students through coding exercises that involve declaring variables, assigning values, and manipulating them using operators.
   - Encourage students to experiment with different values and operators to see the results.<br><br>
 
-- ⏳ Break (10):
+- ⏳ Break (10):<br><br>
 
 - 💻 Code Solo (40):
   - Allow students to work on coding exercises independently.
