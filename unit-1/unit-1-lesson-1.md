@@ -7,7 +7,7 @@
 📖 Link Materials to Class Agenda:
 - [Slides](https://docs.google.com/presentation/d/19Orjx5il5B2A4tXx_3lhPURsA_HAkgPBRGYqPzzCkgk/edit?usp=sharing) (make a copy for your program - link the copy)
 - [Coding Exercise(s)]
-- [Exit Ticket]()
+- [Exit Ticket]
 
 <br>
 
@@ -28,7 +28,7 @@ Note: Time will vary for these activities based on the size & timing of your cla
 - 💬 Slack (10) :
     - Introduce Slack as a communication tool for the class and explain its usage.<br><br>
 
-- ⏳ Break (10)
+- ⏳ Break (10) <br><br>
 
 - 👾 Kahoot! (20)
     - Play Kahoot! game to review HTML and CSS concepts from the previous year.<br><br>
