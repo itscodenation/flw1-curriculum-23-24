@@ -46,8 +46,6 @@
   
 
 ## Common Misconceptions
-Sure, here are some common misconceptions related to the topics in the lesson:
-
 1. **HTML/CSS**:
     - *Misconception*: HTML and CSS are programming languages.
     - *Reality*: HTML (HyperText Markup Language) is a markup language used for creating the structure and content of a web page. CSS (Cascading Style Sheets) is a style sheet language used for styling the HTML elements.
