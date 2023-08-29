@@ -1,4 +1,4 @@
-# Lesson 1.5: CEvents, DOM Intro, & Project Planning
+# Lesson 1.5: Events, DOM Intro, & Project Planning
 
 <br>
 
