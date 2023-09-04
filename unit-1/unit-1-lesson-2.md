@@ -31,7 +31,7 @@
   - HTML: A computer language that is used to create the structure for web pages on the internet.
   - Explain the basics of HTML and CSS, including their syntax and differences. Also, explain class attributes and the box model in CSS.<br><br>
 
-- </> CSS & Code Along (15):
+- </> CSS & Code Along (10):
   - CSS: A stylesheet language that is used to style the HTML elements on a webpage.
   - Explain the flexbox model in CSS and guide students to practice it by coding along.<br><br>
 
@@ -41,7 +41,7 @@
 - 💻 Code Solo (30):
   - Students  will have opportunities to practice their HTML/CSS skills individually. Volunteers should still support during this time, clarifying any student questions, and breaking down/reviewing content.<br><br>
 
-- 🔄 Scrum & Closing (10):
+- 👋 Exit Ticket & Closing (15):
   - Facilitate a discussion where students can share their thoughts on the lesson, ask any questions, or share any issues they encountered.<br><br>
   
 
