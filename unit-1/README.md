@@ -47,10 +47,9 @@ Other: fellowship, agenda, Slack, scrum, integrated development environment (IDE
 Coders will create a portfolio using HTML and CSS. They will add projects from Intro to Web Dev or any personal projects to their portfolio. They will update their portfolio with new projects at the end of future units.
 
 ### Project Materials
-- Project Plan
-- Project Rubric
+- [Project Plan](https://docs.google.com/document/d/1X4f4VTBhUaBL_kc4hzTs_zdoQZcLVae5_UIDfw68nUo/edit?usp=sharing)
 - Starter Code
-    - Light - no layout
+    - [Light](https://github.com/itscodenation/flw1-portfolio-light-23-24-starter) - blank template
     - Medium, Option 1 - layout included
     - Medium, Option 2 - layout included
     - Heavy - layout included, pages linked
