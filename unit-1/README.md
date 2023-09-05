@@ -51,6 +51,5 @@ Coders will create a portfolio using HTML and CSS. They will add projects from I
 - Starter Code
     - [Light](https://github.com/itscodenation/flw1-portfolio-light-23-24-starter) - blank template
     - [Medium](https://github.com/itscodenation/flw1-portfolio-medium-23-24-starter) - layout included, CSS linked
-    - Heavy - layout included, pages linked
-- Solution Code
-- Example Project
+    - [Heavy](https://github.com/itscodenation/flw1-portfolio-heavy-23-24-starter) - layout included, CSS linked, HTML pages linked
+- [Example Project](https://amytran-cn-portfolio.glitch.me/index.html)
