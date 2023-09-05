@@ -20,15 +20,15 @@
   - Discuss the importance of documentation for software engineers and tech professionals.
   - Highlight the Code Nation Coding Guides and W3Schools as useful resources.<br><br>
 
-- 📦 JavaScript & Variables (10):
+- 📦 Variables & Data Types (15):
   - Explain the concept of variables as containers for storing information.
   - Discuss the rules for naming variables and the importance of using descriptive names.
   - Explain the process of declaring a variable using the let keyword and assigning a value to it.
-  - Discuss the difference between var, let, and const for declaring variables.<br><br>
+  - Discuss the difference between var, let, and const for declaring variables.
+  - Discuss the three data types focused on in this lesson: strings, numbers, and booleans.
+  - Explain the general rules for creating strings, numbers, and booleans.<br><br>
 
-- 🔢 Data Types & Operators (10):
-  - Discuss the two data types focused on in this lesson: strings and numbers.
-  - Explain the general rules for creating strings and numbers.
+- 🔢 Operators (10):
   - Discuss the arithmetic operators (+, -, *, /) and how they can be used with numbers and strings.
   - Highlight the difference between concatenating strings and performing arithmetic operations on numbers.<br><br>
 
@@ -43,7 +43,7 @@
   - Encourage them to use the documentation and resources provided to help them complete the exercises.
   - Provide support and guidance as needed.<br><br>
 
-- 🔄 Scrum & Closing (15):
+- 👋 Closing (15):
   - Recap the key takeaways from the lesson.
   - Address any questions or concerns.<br><br>
   
