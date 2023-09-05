@@ -20,10 +20,10 @@ Note: Time will vary for these activities based on the size & timing of your cla
 - 👋 Welcome & Activity (20) : 
     - Begin the session with a welcome message and a short activity to engage students.<br><br>
 
-- 👀 Fellowship Overview (20) : 
+- 👀 Fellowship Overview (15) : 
     - Introduce the Code Nation Fellowship program and its goals.<br><br>
 
-- 📑 Class Agenda (10) :
+- 📑 Class Agenda (5) :
     - Share the daily agenda with time allocations for each section.<br><br>
 
 - 💬 Slack (10) :
@@ -33,6 +33,9 @@ Note: Time will vary for these activities based on the size & timing of your cla
 
 - 👾 Kahoot! (20)
     - Play Kahoot! game to review HTML and CSS concepts from the previous year.<br><br>
+
+- 📝 Exit Ticket & Registration (10)
+    - Students will complete a quick, 5-question check for understanding on class tools ans complete class registration.<br><br>
 
 - ✨ Company Tour (30) :
     - Begin the company tour segment, introducing the students to the company and its mentors.<br><br>
