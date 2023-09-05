@@ -7,7 +7,7 @@
 | Unit | # of Lessons | Project | Overview |
 | :------------------------------------------------------------------- | :-----------------------------------: | :-----------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [1: JavaScript Basics](/unit-1) | 10 | ✔️ | Students will learn fundamental JavaScript concepts including variables, event handlers, DOM manipulation, and conditionals to create several web apps. |
-|[2: JavaScript Intermediate I](/unit-2) | 10 | ✔️ | Students will learn about functions, arrays, and loops to create a Playlist web app. |
+|[2: JavaScript Intermediate I] | 10 | ✔️ | Students will learn about functions, arrays, and loops to create a Playlist web app. |
 | [3: Mid-Year Unit] | 4 | ➖ | Students will complete a HackerRank coding challenge, and create a professional portfolio to house their projects.| 
 | [4: JavaScript Intermediate II] | 10 | ✔️ | Students will collaborate in teams to create a client project combining all the skills they've learned throughout the year.|
 | [5: End-of-Year Unit] | 2 | ➖ | Students will take an End of Year HackerRank coding challenge, and  present their client projects in a stunning showcase!  |
