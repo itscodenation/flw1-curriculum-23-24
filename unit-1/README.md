@@ -50,8 +50,7 @@ Coders will create a portfolio using HTML and CSS. They will add projects from I
 - [Project Plan](https://docs.google.com/document/d/1X4f4VTBhUaBL_kc4hzTs_zdoQZcLVae5_UIDfw68nUo/edit?usp=sharing)
 - Starter Code
     - [Light](https://github.com/itscodenation/flw1-portfolio-light-23-24-starter) - blank template
-    - Medium, Option 1 - layout included
-    - Medium, Option 2 - layout included
+    - [Medium](https://github.com/itscodenation/flw1-portfolio-medium-23-24-starter) - layout included, CSS linked
     - Heavy - layout included, pages linked
 - Solution Code
 - Example Project
