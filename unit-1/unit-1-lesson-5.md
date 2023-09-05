@@ -17,7 +17,7 @@
   - Begin by welcoming everyone and explaining the objectives of the lesson.
   - Ask participants to share their answers to the 'Do Now' questions and clarify any misconceptions.<br><br>
   
-- ⌨️ Event Handlers (10):
+- ⌨️ Event Handlers (20):
   - Explain that events are actions that can be detected by JavaScript, such as clicks, key presses, and page loads.
   - Define event handlers as special JavaScript functions that respond to events and make web pages interactive.
   - Use an analogy to explain event handlers, for example: "It’s kind of like a doorbell ringing when someone's at the door."
@@ -35,7 +35,7 @@
   - Discuss the importance of debugging and share debugging strategies, such as making things visible, slowing down the analysis, and testing code in chunks.
   - Emphasize the importance of clean code and discuss clean code best practices, such as meaningful naming conventions, declaring variables in the appropriate scope, and writing self-explanatory code.<br><br>
 
-- 💻 Project Intro & Planning (50)
+- 💻 Project Intro & Planning (40)
   - Students will continue working on their projects.
   - They should continue filling out their planning documents if they haven't already.
   - Students will continue forward integrating HTMl/CSS/JS into their portfolios.
