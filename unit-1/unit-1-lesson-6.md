@@ -1,4 +1,4 @@
-## Lesson 1.6: DOM Manipulation, Part 1 & Project Work Time
+# Lesson 1.6: DOM Manipulation, Part 1 & Project Work Time
 
 <br>
 

@@ -1,4 +1,4 @@
-Lesson 1.7: DOM Manipulation, Part 2 & Project Work Time
+# Lesson 1.7: DOM Manipulation, Part 2 & Project Work Time
 
 <br>
 
@@ -10,6 +10,8 @@ Lesson 1.7: DOM Manipulation, Part 2 & Project Work Time
 - [Exit Ticket](https://forms.gle/Yg16kHjrX77pTExA9)
 
 <br>
+
+## Key Points
 
 - 👋 Welcome & Do Now (10):
 
