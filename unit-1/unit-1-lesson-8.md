@@ -13,7 +13,7 @@
 
 ## Key Points
 
-- 👋 Welcome & Do Now (10)
+- 👋 Welcome (5)
 
 
 - 🔄 Create & Append (20):
@@ -48,7 +48,7 @@
    - Useful for nesting elements.
    - Variables allow for easy updates.
 
-- 💻 JavaScript Lab (35):
+- 💻 JavaScript Lab (40):
    - Allow students to complete tasks independently.
    - Offer resources as support and breakdown/walk through content when necessary.
 
