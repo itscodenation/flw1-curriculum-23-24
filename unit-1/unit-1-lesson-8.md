@@ -1,4 +1,4 @@
-# Lesson 1.8: Creating/Appending, Review, & Project Work Time
+# Lesson 1.8: DOM Manipulation, Part 3, Review, & Project Work Time
 
 <br>
 
