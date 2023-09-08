@@ -30,7 +30,7 @@
     console.log(greeting);  // Output: Hello, John!
     ```
 
-- 📦 Storing Input Values (10): 
+- 📦 Storing Input Values (15): 
     - Discussion:
         - Talk about input fields encountered online.
         - Share experiences on the last time students used input fields.
