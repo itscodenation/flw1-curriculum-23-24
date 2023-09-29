@@ -1,11 +1,11 @@
-# Lesson 1.9: Project Wrap-Up & Presentations
+# Lesson 2.7: Project Wrap-Up & Presentations
 
 <br>
 
 ## Lesson Materials
 
 📖 Link Materials to Class Agenda:
-- [Slides](https://docs.google.com/presentation/d/1CRWI0cxIHC70393dWPeZ0MG6TV7culR329O2yXoa78U/edit?usp=sharing) (make a copy for your program - link the copy)
+- [Slides](https://docs.google.com/presentation/d/1vFw3Q3Q6oHOJGjmVBPQYBcZ0R9gI3PKNyX_RACLNhtk/edit?usp=sharing) (make a copy for your program - link the copy)
 - [Project Submission Form](https://forms.gle/jgZGXmJCEv7vYS42A)
 - No coding exercises for this lesson.
 
