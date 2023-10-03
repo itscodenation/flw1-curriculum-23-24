@@ -8,7 +8,7 @@
 - [Slides](https://docs.google.com/presentation/d/1rP2KTzprfl255bN3laK7UvmJZol8HVtBYMaGleWSZJE/edit?usp=sharing) (make a copy for your program - link the copy)
 - [Do Now]()
 - [Coding Exercise(s)]()
-- [Exit Ticket]()
+- [Exit Ticket](https://forms.gle/WiEWLsUGftBCyjkG9)
 
 <br>
 
