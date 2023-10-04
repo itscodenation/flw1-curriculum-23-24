@@ -17,21 +17,28 @@
   - Use this time for students to come in and get ready.<br><br>
   
 - 🗂️ Arrays (15) :
-  - <br><br>
+  - Present the real-world problem, discuss various solutions, and introduce the concept of arrays.
+  - Review previous data types learned (numbers, strings), and introduce storing multiple data types using arrays.
+  - Define arrays, their syntax, and basic usage with examples.
+  - Explain array elements and how arrays can be used to organize and store data efficiently.<br><br>
 
 - 💻 Code Along (15) :
-  - <br><br>
+  - Instruct students to follow along as you demonstrate creating and using arrays in code.
+  - Explain the practical applications of arrays, providing examples like photo galleries, music playlists, and shopping carts.<br><br>
 
 - 🔢 Indexes (15) :
-  - <br><br>
+  - Discuss the concept of array indexes, emphasizing that indexing starts at 0.
+  - Walk through examples of retrieving elements using indexes and storing them in variables.<br><br>
 
 - 💻 Code Solo (10) :
-  - <br><br>
+  - Students will work on individual coding tasks where they practice creating arrays and working with indexes.
+  - Circulate and provide guidance as needed.<br><br>
 
 - ⏳ Break (10):<br><br>
 
 - 💻 Project Work Time (35) :
-  - <br><br>
+  - Students work on creating and populating arrays for a project. The project involves storing image URLs, song names, artists, and song links.
+  - Provide continuous support and feedback as students work on their projects.<br><br>
 
 - 👋 Exit Ticket & Closing (10):
   - Recap the key takeaways from the lesson.
