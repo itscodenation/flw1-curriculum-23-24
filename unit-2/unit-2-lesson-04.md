@@ -17,21 +17,29 @@
   - Use this time for students to come in and get ready.<br><br>
   
 - 📦➰ for loops (15) :
-  - <br><br>
+  - Introduction to for loops as a method to iterate code based on set parameters.
+  - Discuss the syntax and components of a for loop with examples.
+  - Highlight initialization (setting a starting point for loop counter), condition (determining how many times to run the loop), and afterthought (updating loop counter’s value).
+  - Emphasize the importance of including a condition or a break to prevent infinite loops.
+  - Explain the significance of .length and the importance of initializing counters at zero.<br><br>
 
 - 💻 Code Along (15) :
-  - <br><br>
+  - Instruct students to open the js file.
+  - Lead students through coding exercises, helping them practice for loops in JavaScript.<br><br>
 
 - ➿ forEach loops (15) :
-  - <br><br>
+  - Introduce forEach loops as a way to iterate through array elements without needing to provide settings as in for loops.- Go through the syntax and components of forEach loops with examples.
+  - Discuss when and why one might choose to use forEach loops over for loops.<br><br>
 
 - 💻 Code Solo (10) :
-  - <br><br>
+  - Allow students time to practice coding with loops independently.<br><br>
 
 - ⏳ Break (10):<br><br>
 
 - 💻 Project Work Time (35) :
-  - <br><br>
+  - Guide students through the task for the day.
+      - Loop through arrays and display data to the correct divs, using appropriate HTML tags for images, song names, artists, and song links.
+  - Support and assist students as they work on their projects.<br><br>
 
 - 👋 Exit Ticket & Closing (10):
   - Recap the key takeaways from the lesson.
