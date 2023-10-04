@@ -14,24 +14,41 @@
 ## Key Points
 
 - 👋 Welcome & Do Now (10) :
-  - Use this time for students to come in and get ready.<br><br>
+  - Use this time for students to come in and get ready.
+  - Welcome students warmly and open the class agenda.
+  - Prompt students to begin the 'Do Now' activity related to arrays.<br><br>
   
-- 🗄️ Objects, Part 1 (15) :
-  - <br><br>
+- 🗄️ Objects, Part 1 (10) :
+  - Highlight the lack of association in arrays between artists and their songs.
+  - Give an introduction to objects for associating pairs.
+  - Explain how objects are data structures and collections of properties and values, created with curly brackets.
+  - Emphasize how properties must be unique, but values can be repetitive.<br><br>
 
-- 💻 Code Along (15) :
-  - <br><br>
+- 💻 Code Along, Part 1 (5) :
+  - Engage students in coding along with you to practice creating objects.<br><br>
 
-- 🗄️ Objects, Part 2 (15) :
-  - <br><br>
+- 🗄️ Objects, Part 2 (10) :
+  - Introduce dot notation for accessing properties and values.
+  - Demonstrate how to access specific properties and values, as well as arrays within objects.
+  - Practice accessing information from objects together.<br><br>
 
-- 💻 Code It Solo (10)
- - <br><br>
+- 💻 Code Along, Part 2 (10)
+ - Continued practice on accessing and manipulating object properties and values.<br><br>
+
+- 🗄️ Objects, Part 3 (10) :
+  - Give a Walkthrough on updating object properties and adding new ones.
+  - Go over how to access and modify properties and their values, as well as how to add new properties.<br><br>
+
+- 💻 Code Solo (10)
+ - Allow students time to practice coding with objects independently.<br><br>
 
 - ⏳ Break (10):<br><br>
 
-- 💻 Project Work Time (35) :
-  - <br><br>
+- 💻 Project Work Time (45) :
+  - Explain why refactoring is necessary.
+  - Discussion on how objects can be used to refactor code.
+  - Students begin working on refactoring their projects using objects.
+  - Guidance/review provided as necessary.<br><br>
 
 - 👋 Exit Ticket & Closing (10):
   - Recap the key takeaways from the lesson.
