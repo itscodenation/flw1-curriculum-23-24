@@ -35,7 +35,9 @@
 
 - 👋 Exit Ticket & Closing (10):
   - Recap the key takeaways from the lesson.
-  - Address any questions or concerns.<br><br>
+  - Address any questions or concerns.
+  - Direct students to the exit ticket in the Class Agenda and ensure they complete it.
+  - Double check and ensure all students have submitted their exit ticket.<br><br>
   
 
 ## Common Misconceptions

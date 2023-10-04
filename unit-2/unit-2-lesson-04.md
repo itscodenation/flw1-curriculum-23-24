@@ -14,7 +14,9 @@
 ## Key Points
 
 - 👋 Welcome & Do Now (10) :
-  - Use this time for students to come in and get ready.<br><br>
+  - Use this time for students to come in and get ready.
+  - Welcome students warmly and open the class agenda.
+  - Prompt students to begin the 'Do Now' activity related to arrays.<br><br>
   
 - 📦➰ for loops (15) :
   - Introduction to for loops as a method to iterate code based on set parameters.
@@ -43,7 +45,9 @@
 
 - 👋 Exit Ticket & Closing (10):
   - Recap the key takeaways from the lesson.
-  - Address any questions or concerns.<br><br>
+  - Address any questions or concerns.
+  - Direct students to the exit ticket in the Class Agenda and ensure they complete it.
+  - Double check and ensure all students have submitted their exit ticket.<br><br>
   
 
 ## Common Misconceptions
