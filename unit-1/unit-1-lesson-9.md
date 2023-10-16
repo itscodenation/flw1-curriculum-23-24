@@ -42,7 +42,10 @@
     - Decision-making behind website style and layout.
     - Open-ended question from the audience.
 
+- ✍️ Survey (5):
+    - Students will complete the Unit 1 Survey.
+    - This is an important data point/piece of feedback - ensure all students submit.
 
-- 👋 Closing (10):
+- 🎉 Closing & Shout Outs (10):
   - Wrap up the day's lesson.
   - Address any lingering questions.
