@@ -20,7 +20,7 @@
   - Prompt students to begin the 'Do Now' activity.
   - Students should explore the different skills and share out as a class.<br><br>
   
-- ⚙️ Functions (25) :
+- ⚙️ Functions (20) :
   - Define functions and connect input and output concept with analogy.
   - Discuss the significance of functions in coding
   - Explain the syntax: function keyword, name, call, and body
@@ -32,7 +32,7 @@
   - Give an explanation and clarification during coding
   - Students replicate the process on their devices<br><br>
 
-- 💻 Code Solo (15 ):
+- 💻 Code Solo (20):
   - Individual coding tasks assigned to students
   - Practice on function declaration, call, and utilization
   - Volunteers should circulate for personalized support<br><br>
