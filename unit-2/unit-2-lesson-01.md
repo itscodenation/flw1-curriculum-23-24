@@ -6,7 +6,7 @@
 
 📖 Link Materials to Class Agenda:
 - [Slides](https://docs.google.com/presentation/d/1rP2KTzprfl255bN3laK7UvmJZol8HVtBYMaGleWSZJE/edit?usp=sharing) (make a copy for your program - link the copy)
-- [Do Now]()
+- [Do Now](https://popcode.org/?snapshot=89ecb318-7385-45a4-b42e-c55f093d7447)
 - [Coding Exercise(s)](https://github.com/itscodenation/flw1-u2l1-23-24-student-exercises)
 - [Exit Ticket](https://forms.gle/WiEWLsUGftBCyjkG9)
 
@@ -17,7 +17,8 @@
 - 👋 Welcome & Do Now (10) :
   - Use this time for students to come in and get ready.
   - Welcome students warmly and open the class agenda.
-  - Prompt students to begin the 'Do Now' activity related to arrays.<br><br>
+  - Prompt students to begin the 'Do Now' activity.
+  - Students should explore the different skills and share out as a class.<br><br>
   
 - ⚙️ Functions (25) :
   - Define functions and connect input and output concept with analogy.
