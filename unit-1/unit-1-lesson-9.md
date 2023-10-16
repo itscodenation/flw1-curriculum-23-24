@@ -1,4 +1,4 @@
-# Lesson 1.9: Project Wrap-Up & Presentations
+# Lesson 1.9: Project Wrap-Up, Presentations & Survey
 
 <br>
 
@@ -6,22 +6,22 @@
 
 📖 Link Materials to Class Agenda:
 - [Slides](https://docs.google.com/presentation/d/1CRWI0cxIHC70393dWPeZ0MG6TV7culR329O2yXoa78U/edit?usp=sharing) (make a copy for your program - link the copy)
-- [Do Now - Unit 1 Survey](https://forms.gle/e4zXw7WX8gTekTNA9)
+- [Unit 1 Survey](https://forms.gle/e4zXw7WX8gTekTNA9)
 - [Project Submission Form](https://forms.gle/jgZGXmJCEv7vYS42A)
 - No coding exercises for this lesson.
 
 <br>
 
-- 👋 Welcome & Do Now (10)
+- 👋 Welcome (5)
     - Have students complete the Unit 1 Survey for their Do Now. <br><br>
 
-- 🔄 Project Wrap-Up (50):
+- 🔄 Project Wrap-Up (45):
     - Students wrap-up their portfolio projects.
     - Teacher to facilitate, support, and troubleshoot as needed.
 
 - ⏳ Break (10):
 
-- 💻 Presentations (40):
+- 💻 Presentations (45):
     - Present in small groups or as a whole class.
     - 2 minutes per coder for presenting.
     - 1-2 minutes Q&A from peers and instructors.
