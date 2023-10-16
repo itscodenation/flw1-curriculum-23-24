@@ -46,6 +46,6 @@
     - This is an important data point/piece of feedback - ensure all students submit.
 
 
-- 👋 Closing (10):
+- 🎉 Closing & Shout Outs (10):
   - Wrap up the day's lesson.
   - Address any lingering questions.
