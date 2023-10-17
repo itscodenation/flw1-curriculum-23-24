@@ -24,12 +24,15 @@
   - Introduce arrow functions and their concise syntax.
   - Demonstrate the conversion of a regular function to an arrow function.<br><br>
 
-- 📥 Single Parameter (10) :
+- 💻 Code Along (10) :
+  - Walk students through converting function declarations to arrow functions.<br><br>
+
+- 📥 Single Parameter (5) :
   - Explain how to declare a function with a single parameter, showcasing the parameter as a placeholder.
   - Demonstrate calling a function with an argument.
   - Clarify the differences between parameters and arguments.<br><br>
 
-- 💻 Code Along (15) :
+- 💻 Code Along (10) :
   - Walk students through creating/calling a function with a parameter.<br><br>
 
 - 📥 Multiple Parameters (10) :
@@ -42,7 +45,7 @@
 
 - ⏳ Break (10) <br><br>
 
-- 💻 Project Work Time (30) :
+- 💻 Project Work Time (35) :
   - Guide students on forking the Starter Code, if they haven't already.
   - Do an overview on what students will work on.
   - Students work on tasks while teachers provide support as needed.<br><br>
