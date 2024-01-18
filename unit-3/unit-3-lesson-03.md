@@ -4,12 +4,11 @@
 
 ## Lesson Materials
 
-📖 Upload as Material in Google Classroom:
+📖 Link Materials to Class Agenda:
 - [Slides](https://docs.google.com/presentation/d/1ZsPOH_FCFXcx2K8QzuJeJ8-02u6IpJwIGeG57LNR7dk/edit?usp=sharing) (make a copy for your program - upload the copy)
 - There are no coding exercises for this lesson. Students will complete a class Kahoot! and coding challenge.
+- [Mid Year Coding Challenge](https://forms.gle/wjRobNRsaMRH3Fxv8) (DO NOT MAKE A COPY - upload as link)
 
-📝 Upload as Assignment in Google Classroom (10 points):
-- [Coding Challenge](https://forms.gle/Br8Wej3sd78Lq64u8) (DO NOT MAKE A COPY - upload as link)
 
 <br>
 
