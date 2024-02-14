@@ -7,7 +7,6 @@
 📖 Link Materials to Class Agenda:
 - [Slides](https://docs.google.com/presentation/d/1ZsPOH_FCFXcx2K8QzuJeJ8-02u6IpJwIGeG57LNR7dk/edit?usp=sharing) (make a copy for your program - upload the copy)
 - [Mid Year Coding Challenge](https://forms.gle/wjRobNRsaMRH3Fxv8)
-- [Unit 3 Survey](https://forms.gle/YcMuVcgihb1N7iey7)
 - There are no coding exercises for this lesson. Students will complete a class Kahoot! and coding challenge.
 
 <br>
