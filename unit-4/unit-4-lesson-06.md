@@ -13,12 +13,6 @@
 
 ## Key Points
 
-🗣️ Pitch Prep (15)
-⏳ Break (10)
-💻 Project Wrap-Up (45)
-👋 Closing (10) 
-
-
 - 👋 Welcome (5) : 
     - Greet students and briefly outline the agenda for the session.
     - Emphasize the importance of this final preparation day for their presentations.<br><br>
