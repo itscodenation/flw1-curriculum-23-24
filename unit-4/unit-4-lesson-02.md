@@ -32,8 +32,8 @@
 - ⏳ Break (10) <br><br>
 
 - Code Along, Part 2 (15) :
- - Demonstrate fetching data from a custom API (example: a database of cat facts).
- - Encourage students to drive the coding process, with the instructor providing guidance on accessing and displaying data.
+  - Demonstrate fetching data from a custom API (example: a database of cat facts).
+  - Encourage students to drive the coding process, with the instructor providing guidance on accessing and displaying data.
 
 - 💻 Project Work Time (35) :
   - Students work on their projects, applying the concepts learned in the lesson.
